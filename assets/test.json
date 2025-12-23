@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": null,
+      "title": "Cacio e Pepe Chickpea, Orzo and Kale Soup - The Washington Post",
+      "description": "Cacio e pepe’s star ingredients — pecorino cheese, black pepper, butter and starchy pasta cooking water — prove they can create magic in a soup, too.",
+      "url": "https://www.washingtonpost.com/recipes/cacio-e-pepe-chickpea-orzo-kale-soup/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3VXJCKYZXNST7TUZVD54AR4TOA_size-normalized.jpg&w=1440",
+      "publishedAt": "2023-10-01T15:42:15Z",
+      "content": "By Joe YonanCacio e pepes star ingredients pecorino cheese, black pepper, butter and starchy pasta cooking water prove they can create magic in a soup, too. As Ravinder Bhogal writes in her beautiful… [+602 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Cat Clifford",
+      "title": "Bill Ackman reportedly said he would 'absolutely' do a deal with X with his new SPARC funding vehicle - CNBC",
+      "description": "Bill Ackman would 'absolutely' do a deal with X with his new SPARC funding vehicle, he told The Wall Street Journal.",
+      "url": "https://www.cnbc.com/2023/10/01/bill-ackman-would-absolutely-do-a-deal-with-x-with-his-new-sparc.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107308717-1695933680535-IMG_6991.jpg?v=1696173534&w=1920&h=1080",
+      "publishedAt": "2023-10-01T15:18:54Z",
+      "content": "Billionaire investor Bill Ackman would \"absolutely\" do a deal with X, the social platform previously known as Twitter, with his newly approved investment vehicle, Ackman told The Wall Street Journal … [+1907 chars]"
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Ross Yoder",
+      "title": "Homeowners Share Affordable Maximum-Impact Upgrades - BuzzFeed",
+      "description": "\"It seemed so silly when my husband brought it home, but within one day I was hooked.\"",
+      "url": "https://www.buzzfeed.com/rossyoder/low-cost-high-reward-home-projects",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/21/21/enhanced/cc0021797803/original-1687-1695333429-4.jpg?crop=1581:830;0,0%26downsize=1250:*",
+      "publishedAt": "2023-10-01T15:01:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Julianne McShane",
+      "title": "Onewheel electric skateboards recalled after 4 reported deaths since 2019 - NBC News",
+      "description": "Hundreds of thousands of Onewheel electric skateboards are being recalled after four people died using them since 2019, the Consumer Product Safety Commission announced Friday.",
+      "url": "https://www.nbcnews.com/news/us-news/onewheel-electric-skateboards-recalled-4-reported-deaths-2019-rcna118264",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231001-onewheel-jm-1030-ea05d9.jpg",
+      "publishedAt": "2023-10-01T14:59:28Z",
+      "content": "Hundreds of thousands of Onewheel electric skateboards are being recalled after four people died using them since 2019, the Consumer Product Safety Commission announced Friday. \r\nThe self-balancing s… [+1852 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Rebecca Elliott",
+      "title": "For Tesla's Cybertruck, Another Sales Launch Date Comes and Goes - The Wall Street Journal",
+      "description": "Elon Musk had suggested Tesla would hold a delivery event for its electric pickup truck in the third quarter, but customers are still waiting",
+      "url": "https://www.wsj.com/business/autos/for-teslas-cybertruck-another-sales-launch-date-comes-and-goes-836cd4f5",
+      "urlToImage": "https://images.wsj.net/im-860575/social",
+      "publishedAt": "2023-10-01T14:24:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": null,
+      "title": "A jobs report and auto strikes usher in a new quarter: What to know this week - Yahoo Finance",
+      "description": null,
+      "url": "https://finance.yahoo.com/news/a-jobs-report-and-auto-strikes-usher-in-a-new-quarter-what-to-know-this-week-140054179.html",
+      "urlToImage": null,
+      "publishedAt": "2023-10-01T14:00:54Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jennifer Liu",
+      "title": "68-year-old has spent 50 years at the same company as an engineer, even without a college degree—this is his one regret - CNBC",
+      "description": "Kip Turner first joined AT&T as a station installer in 1973.",
+      "url": "https://www.cnbc.com/2023/10/01/68-year-old-engineer-spent-50-years-with-one-companyhis-one-regret.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107307687-1695844360706-Kip_Turner_ATT_early_career.jpeg?v=1696167001&w=1920&h=1080",
+      "publishedAt": "2023-10-01T13:30:01Z",
+      "content": "When Kip Turner first applied to a job with AT&amp;T in 1973, he didn't expect that he'd spend his whole career with them.\r\nTurner was 18 years old at the time and had just finished a year at Arkansa… [+4198 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Marley Jay",
+      "title": "What to know as FTX head Sam Bankman-Fried’s trial begins Tuesday for alleged fraud and money-laundering - NBC News",
+      "description": "Sam Bankman-Fried, founder of FTX, is headed to court Tuesday for the start of his trial on fraud and money-laundering charges. Here’s what we know going into it.",
+      "url": "https://www.nbcnews.com/business/business-news/sam-bankman-fried-ftx-trial-begins-tuesday-what-know-rcna117591",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230929-moneylaundering-ksp-main-fd30b1.png",
+      "publishedAt": "2023-10-01T13:04:00Z",
+      "content": "The next chapter in the fall of one-time crypto billionaire Sam Bankman-Fried is set to begin Tuesday as the former FTX head goes on trial in New York City.\r\nJury selection in Bankman-Fried's trial i… [+4498 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "614now.com"
+      },
+      "author": "Jack McLaughlin",
+      "title": "National competitor to Sheetz is coming to Ohio; dozens of locations in the works - 614NOW",
+      "description": "It’s been several years since Sheetz arrived in Ohio, and it’s only natural that Wawa isn’t far behind. Late last week, Wawa, the national gas station and made to order food concept—which often receives comparisons to Sheetz—announced its plan to bring approx…",
+      "url": "https://614now.com/2023/food-drink/popular-national-competitor-to-sheetz-announces-dozens-of-ohio-stores",
+      "urlToImage": "https://614now.com/wp-content/uploads/2023/09/IMG_1015.jpeg",
+      "publishedAt": "2023-10-01T13:02:00Z",
+      "content": "Its been several years since Sheetz arrived in Ohio, and its only natural that Wawa isnt far behind.\r\nLate last week, Wawa, the national gas station and made to order food conceptwhich often receives… [+1011 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Katie Tarasov",
+      "title": "How GlobalFoundries aims to remain world’s third-biggest semiconductor foundry - CNBC",
+      "description": "GlobalFoundries is manufacturing more of the world's critical chips, gaining significance with U.S.-China tension and big deals like one with General Motors",
+      "url": "https://www.cnbc.com/2023/10/01/how-globalfoundries-aims-to-remain-worlds-third-biggest-chip-foundry.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107309538-1696034074233-GF_thumb1.jpg?v=1696165201&w=1920&h=1080",
+      "publishedAt": "2023-10-01T13:00:01Z",
+      "content": "In its short 14-year history, GlobalFoundries has risen to become the world's third-largest chip foundry. Based in upstate New York, GlobalFoundries isn't a household name because it's manufacturing … [+11030 chars]"
+    },
+    {
+      "source": {
+        "id": "fortune",
+        "name": "Fortune"
+      },
+      "author": "Chloe Berger",
+      "title": "Bosses are getting Gen Z’s skills deficit all wrong: The generation says its hard, not soft, skills they need to learn - Fortune",
+      "description": "Bosses are getting Gen Z’s skills deficit all wrong: The generation says its hard, not soft, skills they need to learn.",
+      "url": "https://fortune.com/2023/10/01/gen-z-soft-hard-skills-training/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2023/09/GettyImages-1307840993-1-e1696008568958.jpg?resize=1200,600",
+      "publishedAt": "2023-10-01T13:00:00Z",
+      "content": "Most of us have fibbed once or twice about being proficient in Excel or Powerpoint to get a job, only to later learn the skill on the clock and get a couple grey hairs while at it. But Gen Z feels it… [+3556 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ted Mann",
+      "title": "Flush With Cash, Amtrak Embarks on Ambitious Makeover - The Wall Street Journal",
+      "description": "Railroad sees station upgrades as key to doubling ridership by 2040",
+      "url": "https://www.wsj.com/us-news/amtrak-train-makeover-60d5c487",
+      "urlToImage": "https://images.wsj.net/im-859885/social",
+      "publishedAt": "2023-10-01T13:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "[Removed]"
+      },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Elena Popina, Carly Wanna",
+      "title": "Market Stress Rises Over Wild Week Ahead Even Without a Shutdown - Bloomberg",
+      "description": "Investors have shown few signs of panic during a stock market slump that’s pushed the S&amp;P 500 Index into its first losing quarter in a year. But beneath the surface, signs of stress are emerging that go far beyond the just averted US government shutdown.",
+      "url": "https://www.bloomberg.com/news/articles/2023-10-01/market-stress-rises-over-wild-week-ahead-even-without-a-shutdown",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izeC_HNj90Oo/v0/1200x800.jpg",
+      "publishedAt": "2023-10-01T12:36:09Z",
+      "content": "Investors have shown few signs of panic during a stock market slump thats pushed the S&amp;P 500 Index into its first losing quarter in a year. But beneath the surface, signs of stress are emerging t… [+508 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Daniel Kline",
+      "title": "Bankrupt retailer making surprising brick-and-mortar comeback - TheStreet",
+      "description": "The once-dominant brand was liquidated and now it's making a return to some of its former glory.",
+      "url": "https://www.thestreet.com/retailers/bankrupt-retailer-making-surprising-brick-and-mortar-comeback",
+      "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MTkzMTY4OTI1NDY1MjU3NjMx/toys-r-us-in-macys-lead-js-102022.jpg",
+      "publishedAt": "2023-10-01T12:20:00Z",
+      "content": "Retail brands work a bit like bad guys in a horror movie. \r\nWhen you think they're dead, they pop back up. Even after the hero puts them down for the final count, there's always that last shot where … [+4016 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WDIV ClickOnDetroit"
+      },
+      "author": "Kayla Clarke",
+      "title": "Michigan Lottery player wins $1 million on Powerball ticket from 7-Eleven store in Fraser - WDIV ClickOnDetroit",
+      "description": "A $1 million willing Powerball ticket was sold in Michigan.",
+      "url": "https://www.clickondetroit.com/news/local/2023/10/01/michigan-lottery-player-wins-1-million-on-powerball-ticket-from-7-eleven-store-in-fraser/",
+      "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/GI655TWG4JEQRDFN5ST2EXK5UA.jpg?_a=ATAPphC0",
+      "publishedAt": "2023-10-01T12:07:16Z",
+      "content": "A $1 million willing Powerball ticket was sold in Michigan.\r\nThe Powerball jackpot climbed to $1.04 billion after no ticket matched all six numbers in Saturday nights Powerball drawing.\r\nA lucky Mich… [+1367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Big Food vs. Big Pharma: Companies bet on snacking just as weight loss drugs boom - CNBC",
+      "description": "Kellogg, J.M. Smucker and other food companies are making big bets on snacking, but the rise of Wegovy and Ozempic could pose a threat to future sales growth.",
+      "url": "https://www.cnbc.com/2023/10/01/kellanova-bets-on-snacking-as-ozempic-wegovy-take-off.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107309306-1696008140711-gettyimages-1203051232-AMAZON_GO.jpeg?v=1696161601&w=1920&h=1080",
+      "publishedAt": "2023-10-01T12:00:01Z",
+      "content": "For more than a century, frosted cornflakes have been the backbone of Kellogg's business. That changes Monday, when the company will spin off its stable cereal business in favor of its faster-growing… [+5727 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "Government shutdown: See where the most federal employees work in US - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/graphics/2023/09/30/government-shutdown-workers-location-history/70969671007/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-01T11:37:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Vawn Himmelsbach",
+      "title": "‘I’m not sure what to tell you’: Dave Ramsey was at a loss for words when Virginia woman asked for help with her ‘disconnected’ husband — here’s his thoughts on her 'painful' situation - Yahoo Finance",
+      "description": "Having nothing to say is unusual for the typically outspoken financial expert.",
+      "url": "https://finance.yahoo.com/news/m-not-sure-tell-dave-113000624.html",
+      "urlToImage": "https://media.zenfs.com/en/moneywise_327/ba6317d08ce896ed2c86ca62cec5fb5b",
+      "publishedAt": "2023-10-01T11:30:00Z",
+      "content": "Im not sure what to tell you: Dave Ramsey was at a loss for words when Virginia woman asked for help with her disconnected husband heres his thoughts on her 'painful' situation\r\nLinda and her husband… [+4170 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Devin Friedman",
+      "title": "Zelle Fraud: I Got Scammed Out of $31,000 and My Bank Didn't Care - Business Insider",
+      "description": "In search of a status symbol, I wound up getting ripped off big-time. But the real scam is how America's payment apps treat their customers.",
+      "url": "https://www.businessinsider.com/zelle-fraud-scam-swimming-pool-online-payment-apps-mobile-banking-2023-10",
+      "urlToImage": "https://i.insider.com/650cb17719f33e0019045c52?width=1200&format=jpeg",
+      "publishedAt": "2023-10-01T11:22:00Z",
+      "content": "Illustrations by Madison Ketcham\r\nI was trying to reach Gary Kruglitz, the proprietor of Royal Palace Pools and Spas. Gary cuts a certain figure. Just a hair over 6 feet tall, wears a mustache, squar… [+33769 chars]"
+    }
+  ]
+}
